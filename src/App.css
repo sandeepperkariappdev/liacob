@@ -7,6 +7,16 @@
   height: 40vmin;
 }
 
+#mapContainer {
+  height: 180px;
+}
+.map {
+  margin: 100px auto;
+
+  width: 560px;
+  height: 300px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
